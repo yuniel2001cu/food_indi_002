@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://los-pollos-hermanos.com/sitemap.xml
